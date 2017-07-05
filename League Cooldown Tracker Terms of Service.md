@@ -117,19 +117,19 @@ You and us both acknowledge and agree that Apple, and Apple’s subsidiaries, ar
 
 ## 10. Miscellaneous
 
-### 10.A Governing Law and Venue
+### A. Governing Law and Venue:
 To the extent not prohibited by applicable laws, the Agreement is governed by the laws of the Province of Quebec, excluding conflicts of law provisions, and the federal laws of Canada applicable therein. To the extent not prohibited by applicable law, all claims arising out of or in any way related to the Agreement or our Services will be submitted to the non-exclusive jurisdiction of the court of competent jurisdiction in the City of Montreal, Quebec, and you and us submit to personal jurisdiction in those courts.
 
-### 10.B Entire Agreement
+### B. Entire Agreement:
 The terms of the Agreement (including the Privacy Policy and any Additional Terms) constitute the entire and exclusive agreement between us and you in connection with your use of our App.
 
-### 10.C Waiver Only in Writing
+### C. Waiver Only in Writing:
 Our failure to enforce any of our rights or act with respect to a breach of by you or others of the Agreement does not constitute a waiver of any rights and will not limit our rights with respect to that breach or any subsequent breaches. No waiver by us of any of the provisions in the Agreement will be of any force or effect unless made in writing and signed by a duly authorized person.
 
-### 10.D Assignment
+### D. Assignment:
 We may assign the Agreement to any party at any time without notice to you. You may not assign your rights under the Agreement, by operation of law or otherwise, without our consent.
 
-### 10.E Severability
+### E. Severability:
 If any provision or portion of a provision of this Agreement is determined by a court of competent jurisdiction to be invalid, illegal or unenforceable in any respect for any reason, then that provision will be given effect to the greatest extent possible and the invalidity or unenforceability of that provision or portion of provision shall not affect the validity or enforceability of the remainder of this Agreement. Nothing in the Agreement shall affect any non-waivable statutory rights or remedies that apply to you.
 
 
