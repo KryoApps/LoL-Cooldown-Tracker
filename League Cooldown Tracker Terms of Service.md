@@ -8,7 +8,7 @@
 
 We provide you this application, including any new features and related services (collectively, the “Service” or “Services”) to you subject to the following Terms of Service (as amended from time to time, the “Terms of Service” or “Agreement”). To use this application, you, your heirs, and assigns (collectively, “you”) must agree to the Terms of Service and acknowledge that you are entering into a legally binding contract with us. If you do not agree to the Terms of Service, do not use our App. 
 
-Your use of our App is also subject to the Privacy Policy located at [link], which is hereby incorporated by reference into these Terms of Service. 
+Your use of our App is also subject to the Privacy Policy located [here](https://github.com/KryoApps/LoL-Cooldown-Tracker/blob/master/League%20Cooldown%20Tracker%20Privacy%20Policy.md), which is hereby incorporated by reference into these Terms of Service. 
 
 
 ## 1. Changes to the Terms of Service
@@ -56,7 +56,7 @@ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMIT
 
 ## 8. Binding Arbitration
 
-**PLEASE READ THIS SECTION CAREFULLY.  IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT**
+**PLEASE READ THIS SECTION CAREFULLY.  IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.**
 
 ### A. Generally: 
 In the interest of resolving disputes in the most expedient and cost-effective manner, you agree that every dispute arising in connection with the Agreement will be finally resolved by binding arbitration. Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. This agreement to arbitrate disputes includes all claims arising out of or relating to any aspect of the Agreement, whether based in contract, tort, extra-contractual liability, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of the Agreement. The arbitrator also has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement.
